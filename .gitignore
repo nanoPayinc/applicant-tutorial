@@ -1,0 +1,9 @@
+# MacOS System File
+.DS_Store
+
+# Visual Studio
+.vscode/
+.history/
+
+# Ignore VIM .swp files
+*.swp
